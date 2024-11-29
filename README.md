@@ -21,7 +21,7 @@
 
 
 ## Wanna talk? Here is my contact!
- - ### 📲 Phone Number: +55 (48) 9 9600-3043
+ - ### 📲 Phone Number: +55(48)99600-3043
  - ### 📧 E-mail: bressancassio@gmail.com 
 
  - ### [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsa.me/5548996003043) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
