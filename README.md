@@ -1,5 +1,5 @@
 # Hello, I'm Cássio👋
-### I'm a student at Tripleten, and past this year i've started the ``Data Analysis`` bootcamp.
+### 
 
 ![Cássio Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cassio-bressan&hide_progress=true)
 
