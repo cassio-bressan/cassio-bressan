@@ -1,28 +1,28 @@
-# Hello, I'm Cássio👋
+# 👋 Olá, seja bem-vindo(a)!
 ### 
+Me chamo Cássio Bressan Nunes, sou estudante de Ciência de Dados e entusiasta de tecnologia. Desde criança sou fascinado pela forma como a tecnologia transforma o cotidiano das pessoas — foi assim que descobri minha vocação para a área de dados.
 
-![Cássio Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cassio-bressan&hide_progress=true)
+🎓 Atualmente curso Ciência de Dados no ensino superior, com ênfase em Computação em Nuvem, e sou formado pelo Bootcamp de Analista de Dados da TripleTen.
+
+🚀 Durante o bootcamp, desenvolvi projetos práticos e consolidei meu domínio em Python e suas bibliotecas voltadas à análise e visualização de dados, como:
+
+pandas, numpy, matplotlib, seaborn e plotly
+
+Também dediquei muitas horas à limpeza, transformação e pré-processamento de dados, e considero esse meu principal ponto forte atualmente.
+
+📊 Tenho familiaridade com conceitos importantes para aplicações em problemas de negócios, como:
+
+análise de KPIs, segmentação de clientes, testes estatísticos e fundamentos de machine learning
+
+Esses são temas que venho estudando e colocando em prática de forma progressiva, à medida que amplio minha base teórica e prática.
+
+📌 No momento, foco meus estudos em:
+
+Power BI para criação de dashboards interativos
+
+Google Cloud como base para computação em nuvem e transformação digital
+
+Modelos preditivos com Machine Learning
 
 
-## Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-## My Social Media
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cássio-bressan-nunes-18b37a232/)
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/cassiobrss?igsh=aHl4b2ZnMWhzMDJs)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@cassio9418)
-
-
-
-## Wanna talk? Here is my contact!
- - ### 📲 Phone Number: +55 (48)9 9600-3043
- - ### 📧 E-mail: bressancassio@gmail.com 
-
- - ### [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsa.me/5548996003043) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
