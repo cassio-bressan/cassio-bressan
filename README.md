@@ -2,7 +2,7 @@
 ### 
 Me chamo Cássio Bressan Nunes, sou estudante de Ciência de Dados e apaixonado por tecnologia. Desde criança, a forma como a tecnologia transforma o cotidiano das pessoas sempre me fascinou, e foi assim que descobri minha vocação para a área de dados.
 
-🎓 Atualmente, curso Ciência de Dados no ensino superior, com ênfase em Computação em Nuvem, e sou formado pelo Bootcamp de Analista de Dados da TripleTen.
+🎓 Atualmente, curso Ciência de Dados no ensino superior, com ênfase em Computação na Nuvem, e sou formado pelo Bootcamp de Analista de Dados da TripleTen.
 
 🚀 Durante o bootcamp, trabalhei em projetos reais, onde apliquei meus conhecimentos para resolver problemas práticos de negócios, consolidando meu domínio em Python e bibliotecas essenciais para análise e visualização de dados, como:
 
@@ -12,7 +12,7 @@ Me chamo Cássio Bressan Nunes, sou estudante de Ciência de Dados e apaixonado 
 - Seaborn
 - Plotly
 
-Além disso, dediquei muitas horas à limpeza, transformação e pré-processamento de dados, áreas nas quais considero ter um domínio sólido e em que me sinto bastante confiante.
+Além disso, dediquei muitas horas à limpeza, transformação e pré-processamento de dados, áreas nas quais considero ter um domínio sólido e meu principal ponto forte atualmente.
 
 📊 Tenho familiaridade com conceitos importantes em negócios, como:
 
@@ -32,6 +32,11 @@ Além disso, dediquei muitas horas à limpeza, transformação e pré-processame
 
 🌍 Inglês Avançado: Tenho conhecimento avançado de inglês, o que me permite comunicar e colaborar eficazmente em projetos internacionais. Embora esteja um pouco enferrujado, estou atualmente aprimorando minhas habilidades para retomar a fluência total.
 
-Busco aplicar meus conhecimentos em projetos reais, crescer profissionalmente e contribuir com soluções baseadas em dados para melhorar decisões de negócios.
+Busco aplicar meus conhecimentos em projetos reais, crescer profissionalmente e contribuir com soluções baseadas em dados para melhorar decisões de negócios. Caso tenha alguma dúvida fique a vontade para entrar em contato comigo, será um prazer conhecer e conversar com você!
+
+## Entre em contato comigo!⬇️
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cássio-bressan-nunes/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548996003043?text=Olá+podemos+conversar?)
 
 
