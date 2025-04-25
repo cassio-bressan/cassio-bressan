@@ -1,28 +1,37 @@
 # 👋 Olá, seja bem-vindo(a)!
 ### 
-Me chamo Cássio Bressan Nunes, sou estudante de Ciência de Dados e entusiasta de tecnologia. Desde criança sou fascinado pela forma como a tecnologia transforma o cotidiano das pessoas — foi assim que descobri minha vocação para a área de dados.
+Me chamo Cássio Bressan Nunes, sou estudante de Ciência de Dados e apaixonado por tecnologia. Desde criança, a forma como a tecnologia transforma o cotidiano das pessoas sempre me fascinou, e foi assim que descobri minha vocação para a área de dados.
 
-🎓 Atualmente curso Ciência de Dados no ensino superior, com ênfase em Computação em Nuvem, e sou formado pelo Bootcamp de Analista de Dados da TripleTen.
+🎓 Atualmente, curso Ciência de Dados no ensino superior, com ênfase em Computação em Nuvem, e sou formado pelo Bootcamp de Analista de Dados da TripleTen.
 
-🚀 Durante o bootcamp, desenvolvi projetos práticos e consolidei meu domínio em Python e suas bibliotecas voltadas à análise e visualização de dados, como:
+🚀 Durante o bootcamp, trabalhei em projetos reais, onde apliquei meus conhecimentos para resolver problemas práticos de negócios, consolidando meu domínio em Python e bibliotecas essenciais para análise e visualização de dados, como:
 
-pandas, numpy, matplotlib, seaborn e plotly
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Plotly
 
-Também dediquei muitas horas à limpeza, transformação e pré-processamento de dados, e considero esse meu principal ponto forte atualmente.
+Além disso, dediquei muitas horas à limpeza, transformação e pré-processamento de dados, áreas nas quais considero ter um domínio sólido e em que me sinto bastante confiante.
 
-📊 Tenho familiaridade com conceitos importantes para aplicações em problemas de negócios, como:
+📊 Tenho familiaridade com conceitos importantes em negócios, como:
 
-análise de KPIs, segmentação de clientes, testes estatísticos e fundamentos de machine learning
+- Segmentação de clientes
 
-Esses são temas que venho estudando e colocando em prática de forma progressiva, à medida que amplio minha base teórica e prática.
+- Testes estatísticos
 
-📌 No momento, foco meus estudos em:
+- Fundamentos de Machine Learning
 
-Power BI para criação de dashboards interativos
+📌 Para continuar minha evolução, estou aprofundando meus estudos em tecnologias emergentes, como:
 
-Google Cloud como base para computação em nuvem e transformação digital
+- Power BI para a construção de dashboards interativos e visualizações
 
-Modelos preditivos com Machine Learning
+- Google Cloud para expandir meus conhecimentos em computação em nuvem e transformação digital
 
+- Modelos Preditivos com Machine Learning para trabalhar com dados em grande escala
+
+🌍 Inglês Avançado: Tenho conhecimento avançado de inglês, o que me permite comunicar e colaborar eficazmente em projetos internacionais. Embora esteja um pouco enferrujado, estou atualmente aprimorando minhas habilidades para retomar a fluência total.
+
+Busco aplicar meus conhecimentos em projetos reais, crescer profissionalmente e contribuir com soluções baseadas em dados para melhorar decisões de negócios.
 
 
