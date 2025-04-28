@@ -32,6 +32,9 @@ Além disso, dediquei muitas horas à **limpeza, transformação e pré-processa
 
 🌍 **Inglês Avançado**: Tenho conhecimento avançado de inglês, o que me permite comunicar e colaborar eficazmente em projetos internacionais. Embora esteja um pouco enferrujado, estou atualmente aprimorando minhas habilidades para conquistar a fluência total.
 
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+
+
 Busco aplicar meus conhecimentos em projetos reais, crescer profissionalmente e contribuir com soluções baseadas em dados para melhorar decisões de negócios. Caso tenha alguma dúvida fique a vontade para entrar em **contato** comigo, será um prazer conhecer e conversar com você!
 
 ## Entre em contato comigo!⬇️
