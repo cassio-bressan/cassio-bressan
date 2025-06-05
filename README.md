@@ -51,4 +51,9 @@ Busco aplicar meus conhecimentos em projetos reais, crescer profissionalmente e 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548996003043?text=Olá+podemos+conversar?)
 
 
-
+## Certificações📖
+<img width="1000" alt="Image" src="https://github.com/user-attachments/assets/2603e65a-ca3b-4bb5-b3c2-749ecf6bfe76" />
+<img width="1200" alt="Image (1)" src="https://github.com/user-attachments/assets/e1445c3c-6bdf-4c03-94b7-c60ff84be819" />
+<img width="1200" alt="Image (2)" src="https://github.com/user-attachments/assets/c9098d15-1cb6-438a-9ef9-e02df2c57c15" />
+<img width="1200" alt="Image (3)" src="https://github.com/user-attachments/assets/24506dc2-508f-4ac4-acfb-0e3b654ccafe" />
+<img width="1200" alt="Image (4)" src="https://github.com/user-attachments/assets/dacde024-e1d8-48db-bbfb-35e49ac1b2f4" />
