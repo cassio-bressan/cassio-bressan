@@ -36,7 +36,7 @@ Busco aplicar meus conhecimentos em projetos reais, crescer profissionalmente e 
 
 ## Skills
 <p align="left">
-  <img src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" alt="Python" title="Python" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" title="Python" width="50"/>
   <img src="https://camo.githubusercontent.com/8115396f23e809623427392b05e47dc3cf969ff369011828265e3b6c5679e3be/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f70616e6461732f70616e6461732d6f726967696e616c2e737667" alt="Pandas" title="Pandas" width="50"/>
   <img src="https://camo.githubusercontent.com/17c8b2f6d55413af43bd6248c1847d8767e634f9caa21fd387ead34fb1831263/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6174706c6f746c69622f6d6174706c6f746c69622d6f726967696e616c2e737667" alt="Matplotlib" title="Matplotlib" width="50"/>
   <img src="https://camo.githubusercontent.com/b5a316a445d392b6f33cf315ebae56acecb547a7ac3a62c6931eb81ddbc813c6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e756d70792f6e756d70792d6f726967696e616c2e737667" alt="Numpy" title="Numpy" width="50"/>  
