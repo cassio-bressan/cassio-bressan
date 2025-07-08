@@ -26,9 +26,9 @@ Além disso, dediquei muitas horas à **limpeza, transformação e pré-processa
 
 - **Power BI** para a construção de **dashboards interativos** e **visualizações**
 
-- **Google Cloud** para expandir meus conhecimentos em **computação em nuvem** e **transformação digital**
+- **Google Cloud** e **Microsoft Azure** para expandir meus conhecimentos em **computação em nuvem** e **transformação digital**
 
-- **Modelos Preditivos com Machine Learning** para trabalhar com dados em **grande escala**
+- **Banco de dados** para trabalhar com dados em **grande escala**
 
 🌍 **Inglês Avançado**: Tenho conhecimento avançado de inglês, o que me permite comunicar e colaborar eficazmente em projetos internacionais. Embora esteja um pouco enferrujado, estou atualmente aprimorando minhas habilidades para conquistar a fluência total.
 
