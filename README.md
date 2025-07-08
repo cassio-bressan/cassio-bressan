@@ -43,7 +43,7 @@ Busco aplicar meus conhecimentos em projetos reais, crescer profissionalmente e 
   <img src="https://camo.githubusercontent.com/8eb07b84e5e267dac761de3b82352f39891282b73fcb353d8b996a02ca0dad96/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706c6f746c792f706c6f746c792d6f726967696e616c2e737667" alt="Plotly" title="Plotly" width="50"/>
   <img src="https://user-images.githubusercontent.com/104145773/171375260-c711bda4-ff6d-4693-9a91-b234744f13ad.svg" alt="Seaborn" title="Seaborn" width="50"/>
   <img
-src="https://camo.githubusercontent.com/c8ee4162b7467bd16faadf95adccbe58f5f038e82c37f3e3cf33886ee89d2da7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3333333333333f7374796c653d666c6174266c6f676f3d6d7973716c" alt="MySQL" title="MySQL" width="50"/>
+src="https://camo.githubusercontent.com/c8ee4162b7467bd16faadf95adccbe58f5f038e82c37f3e3cf33886ee89d2da7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3333333333333f7374796c653d666c6174266c6f676f3d6d7973716c" alt="MySQL" title="MySQL" width="80"/>
 </p>
 
 
