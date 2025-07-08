@@ -4,7 +4,7 @@ Me chamo Cássio Bressan Nunes, sou estudante de **Ciência de Dados** e apaixon
 
 🎓 Atualmente, curso **Ciência de Dados** no ensino superior, com ênfase em **Computação na Nuvem**, e sou formado pelo **Bootcamp de Analista de Dados** da **TripleTen**.
 
-🚀 Durante o bootcamp, trabalhei em projetos reais, onde apliquei meus conhecimentos para resolver problemas práticos de negócios, consolidando meu domínio em **Python** e bibliotecas essenciais para **análise** e **visualização de dados**, como:
+🚀 Durante o bootcamp, trabalhei em projetos reais, onde apliquei meus conhecimentos para resolver problemas práticos de negócios, consolidando meu domínio em **SQL**, **Python** e bibliotecas essenciais para **análise** e **visualização de dados**, como:
 
 - **Pandas**
 - **Numpy**
