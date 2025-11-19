@@ -36,7 +36,7 @@ Busco aplicar meus conhecimentos em projetos reais, crescer profissionalmente e 
 
 ## Skills
 <p align="left">
-  <img src="https://icons8.com/icon/WHRLQdbEXQ16/google-cloud"alt="SQL" title="SQL" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000"alt="Google Cloud Platform" title="GCP" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="SQL" title="SQL" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" title="Python" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" title="Pandas" width="50"/>
