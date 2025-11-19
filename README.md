@@ -36,13 +36,14 @@ Busco aplicar meus conhecimentos em projetos reais, crescer profissionalmente e 
 
 ## Skills
 <p align="left">
+  <img src="https://icons8.com/icon/WHRLQdbEXQ16/google-cloud"alt="SQL" title="SQL" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="SQL" title="SQL" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" title="Python" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" title="Pandas" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000" alt="Matplotlib" title="Matplotlib" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="Numpy" title="Numpy" width="50"/>  
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" title="Git" width="50"/>
   <img src="https://user-images.githubusercontent.com/104145773/171375260-c711bda4-ff6d-4693-9a91-b234744f13ad.svg" alt="Seaborn" title="Seaborn" width="50"/>
-  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="SQL" title="SQL" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="MySQL" title="MySQL" width="60"/>
   <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" title="Excel" width="50"/>
   
