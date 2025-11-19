@@ -41,8 +41,10 @@ Busco aplicar meus conhecimentos em projetos reais, crescer profissionalmente e 
   <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="MySQL" title="MySQL" width="60"/>
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" title="Python" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="Jupyter" title="Jupyter" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="Visual Studio Code" title="VsCode" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" title="Excel" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" title="Git" width="50"/>
+  
   
   
 
