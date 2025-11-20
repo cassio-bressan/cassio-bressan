@@ -10,6 +10,7 @@ Me chamo Cássio Bressan Nunes, sou estudante de **Ciência de Dados** com foco 
 - **Matplotlib**
 - **Seaborn**
 - **Plotly**
+
 Também tive contato introdutório com temas como segmentação de clientes, testes estatísticos e fundamentos de machine learning — conteúdos que complementaram minha formação, embora não sejam parte do meu foco atual.
 
 Nessa fase, trabalhei intensamente com limpeza, transformação e pré-processamento de dados, áreas onde desenvolvi uma base sólida.
