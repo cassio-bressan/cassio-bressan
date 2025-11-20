@@ -5,17 +5,11 @@ Me chamo Cássio Bressan Nunes, sou estudante de **Ciência de Dados** com foco 
 🎓 Atualmente, curso **Ciência de Dados** no ensino superior, com ênfase em **Computação na Nuvem**, e sou formado pelo **Bootcamp de Análise de Dados** da **TripleTen**.
 
 🚀 Durante o bootcamp, desenvolvi projetos práticos que fortaleceram minhas habilidades em SQL, Python e nas principais bibliotecas de análise e visualização de dados:
-
-**Pandas**
-
-**Numpy**
-
-**Matplotlib**
-
-**Seaborn**
-
-**Plotly**
-
+- **Pandas**
+- **Numpy**
+- **Matplotlib**
+- **Seaborn**
+- **Plotly**
 Também tive contato introdutório com temas como segmentação de clientes, testes estatísticos e fundamentos de machine learning — conteúdos que complementaram minha formação, embora não sejam parte do meu foco atual.
 
 Nessa fase, trabalhei intensamente com limpeza, transformação e pré-processamento de dados, áreas onde desenvolvi uma base sólida.
