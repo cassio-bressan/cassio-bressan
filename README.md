@@ -15,17 +15,17 @@ Também tive contato introdutório com temas como segmentação de clientes, tes
 
 Nessa fase, trabalhei intensamente com limpeza, transformação e pré-processamento de dados, áreas onde desenvolvi uma base sólida.
 
-📌 Para continuar minha evolução, estou aprofundando meus estudos em tecnologias emergentes, como:
+📌 Para continuar minha evolução, estou aprofundando meus estudos nas ferramentas de análise e visualização de dados do Google Cloud, incluindo:
 
-- **Power BI** para a construção de **dashboards interativos** e **visualizações**
+- **BigQuery**
+- **Looker Studio**
+- **Ferramentas de ingestão, modelagem e exploração de dados na GCP**
 
-- **Google Cloud** e **Microsoft Azure** para expandir meus conhecimentos em **computação em nuvem** e **transformação digital**
+Meu objetivo é desenvolver competências sólidas em análise de dados em nuvem, criando consultas eficientes, modelos bem estruturados e visualizações que apoiem decisões de negócio.
 
-- **Banco de dados** para trabalhar com dados em **grande escala**
+🌍 Inglês (nível B1): Estudo todos os dias para recuperar ritmo e alcançar a fluência. Já consigo lidar com materiais técnicos, e estou focado em melhorar conversação e vocabulário.
 
-🌍 **Inglês Avançado**: Tenho conhecimento avançado de inglês, o que me permite comunicar e colaborar eficazmente em projetos internacionais. Embora esteja um pouco enferrujado, estou atualmente aprimorando minhas habilidades para conquistar a fluência total.
-
-Busco aplicar meus conhecimentos em projetos reais, crescer profissionalmente e contribuir com soluções baseadas em dados para melhorar decisões de negócios. Caso tenha alguma dúvida fique a vontade para entrar em **contato** comigo, será um prazer conhecer e conversar com você!
+Busco aplicar meus conhecimentos no desenvolvimento de soluções de dados em ambientes cloud, trabalhando com análises, modelagem e visualizações que apoiem decisões de negócio de forma eficiente e escalável. Caso tenha alguma dúvida fique a vontade para entrar em **contato** comigo, será um prazer conhecer e conversar com você!
 
 ## Skills
 <p align="left">
