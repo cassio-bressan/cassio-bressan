@@ -1,26 +1,24 @@
 # 👋 Olá, seja bem-vindo(a)!
 ### 
-Me chamo Cássio Bressan Nunes, sou estudante de **Ciência de Dados** e apaixonado por tecnologia. Desde criança, a forma como a tecnologia transforma o cotidiano das pessoas sempre me fascinou, e foi assim que descobri minha vocação para a área de dados.
+Me chamo Cássio Bressan Nunes, sou estudante de **Ciência de Dados** com foco em **Google Cloud Platform** (GCP). Estou direcionando minha carreira para soluções de dados em nuvem, com interesse especial em análise de dados, BI, dashboards e consultas SQL eficientes em grandes volumes.
 
 🎓 Atualmente, curso **Ciência de Dados** no ensino superior, com ênfase em **Computação na Nuvem**, e sou formado pelo **Bootcamp de Análise de Dados** da **TripleTen**.
 
-🚀 Durante o bootcamp, trabalhei em projetos reais, onde apliquei meus conhecimentos para resolver problemas práticos de negócios, consolidando meu domínio em **SQL**, **Python** e bibliotecas essenciais para **análise** e **visualização de dados**, como:
+🚀 Durante o bootcamp, desenvolvi projetos práticos que fortaleceram minhas habilidades em SQL, Python e nas principais bibliotecas de análise e visualização de dados:
 
-- **Pandas**
-- **Numpy**
-- **Matplotlib**
-- **Seaborn**
-- **Plotly**
+**Pandas**
 
-Além disso, dediquei muitas horas à **limpeza, transformação e pré-processamento de dados**, áreas nas quais considero ter um domínio **sólido** e meu principal ponto forte atualmente.
+**Numpy**
 
-📊 Tenho **familiaridade** com conceitos importantes em negócios, como:
+**Matplotlib**
 
-- **Segmentação de clientes**
+**Seaborn**
 
-- **Testes estatísticos**
+**Plotly**
 
-- **Fundamentos de Machine Learning**
+Também tive contato introdutório com temas como segmentação de clientes, testes estatísticos e fundamentos de machine learning — conteúdos que complementaram minha formação, embora não sejam parte do meu foco atual.
+
+Nessa fase, trabalhei intensamente com limpeza, transformação e pré-processamento de dados, áreas onde desenvolvi uma base sólida.
 
 📌 Para continuar minha evolução, estou aprofundando meus estudos em tecnologias emergentes, como:
 
