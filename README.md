@@ -27,9 +27,9 @@ Meu objetivo é desenvolver competências sólidas em análise de dados em nuvem
 
 🌍 Inglês (nível B1): Estudo todos os dias para recuperar o ritmo e alcançar a fluência. Já consigo lidar com materiais técnicos, e estou focado em melhorar conversação e vocabulário.
 
----
-
 Busco aplicar meus conhecimentos no desenvolvimento de soluções de dados em ambientes cloud, trabalhando com análises, modelagem e visualizações que apoiem decisões de negócio de forma eficiente e escalável. Caso tenha alguma dúvida fique a vontade para entrar em **contato** comigo, será um prazer conhecer e conversar com você!
+
+---
 
 ## Skills
 <p align="left">
