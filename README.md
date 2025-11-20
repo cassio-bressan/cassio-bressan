@@ -1,7 +1,7 @@
 # 👋 Olá, seja bem-vindo(a)!
 ### 
 Me chamo Cássio Bressan Nunes, sou estudante de **Ciência de Dados** com foco em **Google Cloud Platform** (GCP). Estou direcionando minha carreira para soluções de dados em nuvem, com interesse especial em análise de dados, BI, dashboards e consultas SQL eficientes em grandes volumes.
-
+--------------------------------------------------------------------------------------
 🎓 Atualmente, curso **Ciência de Dados** no ensino superior, com ênfase em **Computação na Nuvem**, e sou formado pelo **Bootcamp de Análise de Dados** da **TripleTen**.
 
 🚀 Durante o bootcamp, desenvolvi projetos práticos que fortaleceram minhas habilidades em SQL, Python e nas principais bibliotecas de análise e visualização de dados:
