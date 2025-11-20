@@ -1,7 +1,7 @@
 # 👋 Olá, seja bem-vindo(a)!
 ### 
 Me chamo Cássio Bressan Nunes, sou estudante de **Ciência de Dados** com foco em **Google Cloud Platform** (GCP). Estou direcionando minha carreira para soluções de dados em nuvem, com interesse especial em análise de dados, BI, dashboards e consultas SQL eficientes em grandes volumes.
-
+---
 🎓 Atualmente, curso **Ciência de Dados** no ensino superior, com ênfase em **Computação na Nuvem**, e sou formado pelo **Bootcamp de Análise de Dados** da **TripleTen**.
 
 🚀 Durante o bootcamp, desenvolvi projetos práticos que fortaleceram minhas habilidades em SQL, Python e nas principais bibliotecas de análise e visualização de dados:
@@ -14,7 +14,7 @@ Me chamo Cássio Bressan Nunes, sou estudante de **Ciência de Dados** com foco 
 Também tive contato introdutório com temas como segmentação de clientes, testes estatísticos e fundamentos de machine learning — conteúdos que complementaram minha formação, embora não sejam parte do meu foco atual.
 
 Nessa fase, trabalhei intensamente com limpeza, transformação e pré-processamento de dados, áreas onde desenvolvi uma base sólida.
-
+---
 📌 Para continuar minha evolução, estou aprofundando meus estudos nas ferramentas de análise e visualização de dados do Google Cloud, incluindo:
 
 - **BigQuery**
@@ -24,7 +24,7 @@ Nessa fase, trabalhei intensamente com limpeza, transformação e pré-processam
 Meu objetivo é desenvolver competências sólidas em análise de dados em nuvem, criando consultas eficientes, modelos bem estruturados e visualizações que apoiem decisões de negócio.
 
 🌍 Inglês (nível B1): Estudo todos os dias para recuperar o ritmo e alcançar a fluência. Já consigo lidar com materiais técnicos, e estou focado em melhorar conversação e vocabulário.
-
+---
 Busco aplicar meus conhecimentos no desenvolvimento de soluções de dados em ambientes cloud, trabalhando com análises, modelagem e visualizações que apoiem decisões de negócio de forma eficiente e escalável. Caso tenha alguma dúvida fique a vontade para entrar em **contato** comigo, será um prazer conhecer e conversar com você!
 
 ## Skills
