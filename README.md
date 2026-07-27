@@ -56,5 +56,5 @@ Busco aplicar meus conhecimentos no desenvolvimento de soluções de dados em am
 
 
 ## Certificações📖
-  <img src="https://www.credly.com/badges/0a99a42c-7621-4435-b92d-33ab0ccf23ff/public_url" alt="Teste" title="Teste" width="50"/>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0a99a42c-7621-4435-b92d-33ab0ccf23ff" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
 
