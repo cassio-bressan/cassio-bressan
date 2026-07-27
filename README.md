@@ -39,7 +39,7 @@ Busco aplicar meus conhecimentos no desenvolvimento de soluções de dados em am
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" title="Python" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="Jupyter" title="Jupyter" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="Visual Studio Code" title="VsCode" width="50"/>
-  <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" title="Excel" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=30461&format=png&color=000000" alt="Google Sheets" title="Google Sheets" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" title="Git" width="50"/>
   
   
