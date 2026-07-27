@@ -56,4 +56,6 @@ Busco aplicar meus conhecimentos no desenvolvimento de soluções de dados em am
 
 
 ## Certificações📖
-[<img src="assets/google-cloud-data-analytics-badge.png" width="170">](https://www.credly.com/badges/0a99a42c-7621-4435-b92d-33ab0ccf23ff/public_url)
+[<img src="assets/google-cloud-data-analytics-certificate.png" width="170">](https://www.credly.com/badges/0a99a42c-7621-4435-b92d-33ab0ccf23ff/public_url)
+
+
