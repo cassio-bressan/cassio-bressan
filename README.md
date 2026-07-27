@@ -56,10 +56,5 @@ Busco aplicar meus conhecimentos no desenvolvimento de soluções de dados em am
 
 
 ## Certificações📖
-<img width="400" alt="Image" src="https://github.com/user-attachments/assets/2603e65a-ca3b-4bb5-b3c2-749ecf6bfe76" />
-<img width="400" alt="Image (1)" src="https://github.com/user-attachments/assets/e1445c3c-6bdf-4c03-94b7-c60ff84be819" />
-<img width="400" alt="Image (2)" src="https://github.com/user-attachments/assets/c9098d15-1cb6-438a-9ef9-e02df2c57c15" />
-<img width="400" alt="Image (3)" src="https://github.com/user-attachments/assets/24506dc2-508f-4ac4-acfb-0e3b654ccafe" />
-<img width="400" alt="Image (4)" src="https://github.com/user-attachments/assets/dacde024-e1d8-48db-bbfb-35e49ac1b2f4" />
-<img width="400" alt="Image (4)" src="https://www.credly.com/badges/0a99a42c-7621-4435-b92d-33ab0ccf23ff/public_url" />
+  <img src="https://www.credly.com/badges/0a99a42c-7621-4435-b92d-33ab0ccf23ff/public_url" alt="Teste" title="Teste" width="50"/>
 
