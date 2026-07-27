@@ -61,3 +61,5 @@ Busco aplicar meus conhecimentos no desenvolvimento de soluções de dados em am
 <img width="400" alt="Image (2)" src="https://github.com/user-attachments/assets/c9098d15-1cb6-438a-9ef9-e02df2c57c15" />
 <img width="400" alt="Image (3)" src="https://github.com/user-attachments/assets/24506dc2-508f-4ac4-acfb-0e3b654ccafe" />
 <img width="400" alt="Image (4)" src="https://github.com/user-attachments/assets/dacde024-e1d8-48db-bbfb-35e49ac1b2f4" />
+<img width="400" alt="Image (4)" src="https://www.credly.com/badges/0a99a42c-7621-4435-b92d-33ab0ccf23ff/public_url" />
+
